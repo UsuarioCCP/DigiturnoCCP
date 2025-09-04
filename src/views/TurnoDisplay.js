@@ -34,8 +34,8 @@ function TurnoDisplay() {
       `Turno ${turno}, asesor ${asesor}`
     );
     mensaje.lang = "es-ES"; // Español de España
-    mensaje.rate = 0.9; // Un poco más lento
-    mensaje.pitch = 1.0; // Tono normal
+    mensaje.rate = 0.7; // Un poco más lento
+    mensaje.pitch = 1.2; // Tono normal
     window.speechSynthesis.speak(mensaje);
   };
 
