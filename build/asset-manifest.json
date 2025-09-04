@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.80436e93.css",
-    "main.js": "/static/js/main.568db457.js",
+    "main.js": "/static/js/main.e4a0f90d.js",
     "static/media/casa_velez.png": "/static/media/casa_velez.7f8f05d35de61cbaddc7.png",
     "index.html": "/index.html",
     "main.80436e93.css.map": "/static/css/main.80436e93.css.map",
-    "main.568db457.js.map": "/static/js/main.568db457.js.map"
+    "main.e4a0f90d.js.map": "/static/js/main.e4a0f90d.js.map"
   },
   "entrypoints": [
     "static/css/main.80436e93.css",
-    "static/js/main.568db457.js"
+    "static/js/main.e4a0f90d.js"
   ]
 }

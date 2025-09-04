@@ -181,7 +181,7 @@ function TurnoAdmin() {
           <h2 className="text-3xl font-bold text-center text-rose-600 mb-2">
             🎟️ Bienvenido
           </h2>
-          <span className=" flex justify-center font-bold">Asesor {asesorId}</span>
+          <span className=" flex text-2xl justify-center font-bold my-8">Asesor {asesorId}</span>
           <p className="text-center text-sm text-gray-600 m-10">
             ¡Gracias por brindar una atención con excelencia!
           </p>
